@@ -1,0 +1,2 @@
+# Newsify
+ News Management System
